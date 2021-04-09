@@ -1,0 +1,47 @@
+\\iscsi\profiles\PermyakovEV\Desktop\C# prog\C# prog\vpf lite\WpfApp1\bin\Debug\WpfApp1.exe.config
+\\iscsi\profiles\PermyakovEV\Desktop\C# prog\C# prog\vpf lite\WpfApp1\bin\Debug\WpfApp1.exe
+\\iscsi\profiles\PermyakovEV\Desktop\C# prog\C# prog\vpf lite\WpfApp1\bin\Debug\WpfApp1.pdb
+\\iscsi\profiles\PermyakovEV\Desktop\C# prog\C# prog\vpf lite\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+\\iscsi\profiles\PermyakovEV\Desktop\C# prog\C# prog\vpf lite\WpfApp1\obj\Debug\View\MainWindow.g.cs
+\\iscsi\profiles\PermyakovEV\Desktop\C# prog\C# prog\vpf lite\WpfApp1\obj\Debug\App.g.cs
+\\iscsi\profiles\PermyakovEV\Desktop\C# prog\C# prog\vpf lite\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+\\iscsi\profiles\PermyakovEV\Desktop\C# prog\C# prog\vpf lite\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+\\iscsi\profiles\PermyakovEV\Desktop\C# prog\C# prog\vpf lite\WpfApp1\obj\Debug\View\MainWindow.baml
+\\iscsi\profiles\PermyakovEV\Desktop\C# prog\C# prog\vpf lite\WpfApp1\obj\Debug\WpfApp1.g.resources
+\\iscsi\profiles\PermyakovEV\Desktop\C# prog\C# prog\vpf lite\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+\\iscsi\profiles\PermyakovEV\Desktop\C# prog\C# prog\vpf lite\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+\\iscsi\profiles\PermyakovEV\Desktop\C# prog\C# prog\vpf lite\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+\\iscsi\profiles\PermyakovEV\Desktop\C# prog\C# prog\vpf lite\WpfApp1\obj\Debug\WpfApp1.exe
+\\iscsi\profiles\PermyakovEV\Desktop\C# prog\C# prog\vpf lite\WpfApp1\obj\Debug\WpfApp1.pdb
+G:\C# prog\WpfApp1\bin\Debug\WpfApp1.exe.config
+G:\C# prog\WpfApp1\bin\Debug\WpfApp1.exe
+G:\C# prog\WpfApp1\bin\Debug\WpfApp1.pdb
+G:\C# prog\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+G:\C# prog\WpfApp1\obj\Debug\View\MainWindow.g.cs
+G:\C# prog\WpfApp1\obj\Debug\App.g.cs
+G:\C# prog\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+G:\C# prog\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+G:\C# prog\WpfApp1\obj\Debug\View\MainWindow.baml
+G:\C# prog\WpfApp1\obj\Debug\WpfApp1.g.resources
+G:\C# prog\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+G:\C# prog\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+G:\C# prog\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+G:\C# prog\WpfApp1\obj\Debug\WpfApp1.exe
+G:\C# prog\WpfApp1\obj\Debug\WpfApp1.pdb
+G:\C# prog\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\repos for git\4laba\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\repos for git\4laba\WpfApp1\bin\Debug\WpfApp1.exe
+D:\repos for git\4laba\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\repos for git\4laba\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\repos for git\4laba\WpfApp1\obj\Debug\View\MainWindow.g.cs
+D:\repos for git\4laba\WpfApp1\obj\Debug\App.g.cs
+D:\repos for git\4laba\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\repos for git\4laba\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\repos for git\4laba\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\repos for git\4laba\WpfApp1\obj\Debug\View\MainWindow.baml
+D:\repos for git\4laba\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\repos for git\4laba\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\repos for git\4laba\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\repos for git\4laba\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\repos for git\4laba\WpfApp1\obj\Debug\WpfApp1.exe
+D:\repos for git\4laba\WpfApp1\obj\Debug\WpfApp1.pdb
